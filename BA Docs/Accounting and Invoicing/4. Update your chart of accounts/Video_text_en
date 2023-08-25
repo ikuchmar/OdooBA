@@ -1,0 +1,395 @@
+Intro
+0:00
+hi and welcome back to your doers in our
+0:01
+last tutorial we have seen the basic
+0:03
+accounts and the configuration of the
+0:05
+chart of accounts to go further let's
+0:07
+now check out together the tips and
+0:09
+tricks on how to update your chart of
+0:11
+accounts when you set up your accounting
+0:13
+for the first time
+0:15
+this video will recommend suitable
+0:17
+approaches by showing you how to update
+0:20
+all accounts effortlessly in batches
+0:22
+through a spreadsheet import let's now
+0:24
+jump in the database to see how to do
+0:26
+that
+0:27
+so here we are in our database for my
+Update chart of accounts
+0:30
+ping cars company and what i need to do
+0:32
+to make my accounting uh configurations
+0:34
+ready is first to update my chart of
+0:36
+accounts so i'm what i'm going to do is
+0:38
+go in the configuration of the
+0:39
+accounting app and check for my chart of
+0:42
+accounts menu so instead of here
+0:44
+manually updating account by account
+0:46
+what i want to do is select the whole
+0:49
+list select all 400 accounts and export
+0:52
+it into a spreadsheet so i'm going to
+0:54
+click on export here you see that audio
+0:57
+already gives me some fields to export
+0:59
+what i want to add in addition is to
+1:01
+select the i want to update data feature
+1:04
+this feature enables us then afterwards
+1:06
+when you import to make sure that you
+1:08
+update the right records and not adding
+1:11
+new ones what i'm going to add as well
+1:13
+is the deprecated field here
+1:16
+because we're going to need it when we
+1:17
+want to update the chart of accounts and
+1:19
+i'm just going to export
+1:21
+once this is done we're going to open it
+Important information
+1:23
+and see what happens behind that so what
+1:25
+you see in the first column is what we
+1:27
+call the external id so it's something
+1:30
+that's really important it's really
+1:31
+important concept you do because it's a
+1:34
+unique code for any information in your
+1:36
+database so it's for for your chart of
+1:38
+accounts for your contacts for for
+1:40
+anything in the system and when you
+1:42
+update through an import you need this
+1:45
+information to make sure that you update
+1:47
+the right information in the system so
+1:50
+color the column to make sure that you
+1:52
+don't update it another important
+1:54
+information that you should not change
+1:56
+easily is the account type remember
+1:58
+we've talked about it um it's a very
+2:01
+important concept in udu and um you
+2:04
+should not update for
+2:05
+the account type for existing accounts
+2:07
+only for new ones that you're going to
+2:08
+add
+2:10
+so let's say here now that you want to
+2:12
+update the account so what i always say
+2:14
+is don't create a whole chart of
+2:16
+accounts update the existing one so what
+2:19
+you for example let's say i have an
+2:21
+account here
+2:22
+in fixed assets
+2:23
+here my furniture and vehicles account i
+2:25
+don't like how it's named so i'm just
+2:27
+going to change the name
+2:29
+and instead of vehicles i'm just going
+2:30
+to put cars so super easy
+2:33
+you can change the names to whatever you
+2:35
+like there is no restriction here what
+2:37
+is important is when you want to change
+2:39
+the account code instead depending on
+2:42
+your country's accounting principles you
+2:45
+you have more or less restrictions so
+2:47
+for example in belgium or france for
+2:50
+example
+2:51
+the account code is really important
+2:53
+when you want to split the accounts into
+2:55
+the financial report so this is what
+2:57
+gives us
+2:58
+the balance sheet and the profit and
+3:00
+loss statement so here i can change it
+3:02
+but only to a certain extent so always
+3:04
+keep the first two digits intact and
+3:07
+change the rest of it if you like no
+3:09
+restrictions for that
+3:11
+for other countries like the uk or the
+3:13
+u.s for example the account code is not
+3:16
+really important for for the financial
+3:17
+reports it's only the account type that
+3:20
+counts so you don't have any
+3:22
+restrictions in that case so make sure
+3:24
+that you know your country's
+3:26
+accounting criteria before updating your
+3:28
+chart of accounts
+3:29
+now if you want to add a new account
+3:31
+super easy you just go at the bottom of
+3:33
+the page and you add a new one to the
+3:37
+list basically so here in that case
+3:39
+you can just let's say i want a new
+3:42
+expense account
+3:44
+mix expenses for example
+3:46
+here you have to put an account type
+3:48
+because it's an account that doesn't
+3:50
+exist yet so if you have doubts on which
+3:53
+account type to choose from
+3:55
+you just take the closest existing
+3:57
+account to the one that you want to
+3:59
+create and you just stick to the same
+4:01
+configuration so here i'm just going to
+4:03
+put expenses and that's basically it
+4:05
+okay
+4:07
+here you don't need to put an external
+4:09
+id
+4:10
+if you don't put one it's just going to
+4:12
+create a new account and it will assign
+4:14
+an external id on its own but if you
+4:16
+want to you can always put here account
+4:20
+oops here a few mistake accounts
+4:25
+i'm just going to put my trigram and a
+4:28
+sequence here to make sure that i have a
+4:30
+unique code in my external id
+4:33
+is that all clear for you kiara yeah it
+4:35
+sounds great so does it mean i can
+4:37
+delete uh some accounts that i don't use
+4:40
+no actually no it's not really a good
+4:42
+idea because when you update a chart of
+4:44
+accounts and there are of course some
+4:46
+accounts that you're never going to use
+4:48
+um it's better to deprecate them so
+4:50
+deprecated in a do means archives
+4:52
+basically so they still exist but you
+4:55
+can't choose them when you are creating
+4:57
+accounting entries why is it important
+4:59
+because uh you know do there are a lot
+5:01
+of default configuration default
+5:03
+accounts that we use uh like for example
+5:05
+the receivable accounts it's always the
+5:07
+same one when uh that is a sign phone
+5:09
+will create a new contact so it's really
+5:11
+important that you don't delete those by
+5:14
+mistake because afterwards you're gonna
+5:16
+get error messages uh what's also
+5:18
+important here and i don't know if
+5:19
+you've noticed uh
+5:21
+in in the system is that you have uh
+5:24
+what we call a current
+5:26
+current here earnings account here this
+5:29
+account type here what's really
+5:30
+important is that you always keep one
+5:33
+account like this you can't change it
+5:34
+it's audio specific so basically it
+5:36
+enables us to give
+5:38
+the total benefit or loss of the year in
+5:40
+your p l statement so just remember that
+5:42
+you can only keep one and you should not
+5:44
+deprecate it and you should not delete
+5:46
+it okay
+5:47
+um well we've done all our all our
+5:50
+updates so i'm just going to save
+5:52
+the updates in in my file i'm going to
+5:54
+go back into the database and update it
+Import
+5:57
+uh updated through an import so when you
+5:59
+want to update afterwards you just go in
+6:02
+the favorites section and this is valid
+6:03
+for any view in the system
+6:05
+and import the records here i'm going to
+6:08
+upload my file and i'm going to choose
+6:10
+here my
+6:13
+my new
+6:14
+my file that i just updated so here as
+6:17
+you can see since i have the proper
+6:19
+column names audio already
+6:21
+gives me the right uh the right fields
+6:24
+to choose from and always when you want
+6:26
+to import back again test if everything
+6:29
+works so making sure everything seems
+6:31
+valid audio says okay i'm just going to
+6:33
+import it again
+6:36
+so what happens here is uh let's check
+6:39
+out for example our account
+6:41
+for my cars if i go back here you see
+6:44
+that it has updated the name properly
+6:46
+and the code as well so it's super easy
+6:49
+uh
+6:50
+and it just takes me like
+6:52
+much less time to update it through an
+6:54
+input than through uh manually line by
+6:57
+line that's all for me in this video
+6:59
+thank you for watching ciao tutti
+
