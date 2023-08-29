@@ -1,0 +1,40 @@
+Intro hi and welcome back to your doers in our last tutorial we have seen the basic accounts and the configuration of the chart of accounts to go further let's
+now check out together the tips and tricks on how to update your chart of accounts when you set up your accounting for the first time this video will recommend 
+suitable approaches by showing you how to update all accounts effortlessly in batches through a spreadsheet import let's now jump in the database to see how to do
+that so here we are in our database for my Update chart of accounts ping cars company and what i need to do to make my accounting uh configurations ready is first 
+to update my chart of accounts so i'm what i'm going to do is go in the configuration of the accounting app and check for my chart of accounts menu so instead of here
+manually updating account by account what i want to do is select the whole list select all 400 accounts and export it into a spreadsheet so i'm going to click on export here you see that audio
+already gives me some fields to export what i want to add in addition is to select the i want to update data featureс this feature enables us then afterwards
+when you import to make sure that you update the right records and not adding new ones what i'm going to add as well is the deprecated field here because we're going to need it when we
+want to update the chart of accounts and i'm just going to export once this is done we're going to open it Important information and see what happens behind that so what
+you see in the first column is what we call the external id so it's something that's really important it's really important concept you do because it's a unique code for any information in your
+database so it's for for your chart of accounts for your contacts for for anything in the system and when you update through an import you need this information to make sure that you update
+the right information in the system so color the column to make sure that you don't update it another important information that you should not change easily is the account type remember
+we've talked about it um it's a very important concept in udu and um you should not update for the account type for existing accounts only for new ones that you're going to
+add so let's say here now that you want to update the account so what i always say is don't create a whole chart of accounts update the existing one so what you for example let's say i have an
+account here in fixed assets here my furniture and vehicles account i don't like how it's named so i'm just going to change the name and instead of vehicles i'm just going
+to put cars so super easy you can change the names to whatever you like there is no restriction here what is important is when you want to change the account code instead depending on
+your country's accounting principles you you have more or less restrictions so for example in belgium or france for example the account code is really important when you want to split the accounts into
+the financial report so this is what gives us the balance sheet and the profit and loss statement so here i can change it but only to a certain extent so always
+keep the first two digits intact and change the rest of it if you like no restrictions for that for other countries like the uk or the u.s for example the account code is not
+really important for for the financial reports it's only the account type that counts so you don't have any restrictions in that case so make sure that you know your country's
+accounting criteria before updating your chart of accounts now if you want to add a new account super easy you just go at the bottom of the page and you add a new one to the
+list basically so here in that case you can just let's say i want a new expense account mix expenses for example here you have to put an account type because it's an account that doesn't
+exist yet so if you have doubts on which account type to choose from you just take the closest existing account to the one that you want to create and you just stick to the same
+configuration so here i'm just going to put expenses and that's basically it okay here you don't need to put an external id if you don't put one it's just going to
+create a new account and it will assign an external id on its own but if you want to you can always put here account oops here a few mistake accounts i'm just going to put my trigram and a
+sequence here to make sure that i have a unique code in my external id is that all clear for you kiara yeah it sounds great so does it mean i can delete uh some accounts that i don't use
+no actually no it's not really a good idea because when you update a chart of accounts and there are of course some accounts that you're never going to use um it's better to deprecate them so
+deprecated in a do means archives basically so they still exist but you can't choose them when you are creating accounting entries why is it important because uh you know do there are a lot
+of default configuration default accounts that we use uh like for example the receivable accounts it's always the same one when uh that is a sign phone will create a new contact so it's really
+important that you don't delete those by mistake because afterwards you're gonna get error messages uh what's also important here and i don't know if you've noticed uh
+in in the system is that you have uh what we call a current current here earnings account here this account type here what's really important is that you always keep one
+account like this you can't change it it's audio specific so basically it enables us to give the total benefit or loss of the year in your p l statement so just remember that
+you can only keep one and you should not deprecate it and you should not delete it okay um well we've done all our all our updates so i'm just going to save the updates in in my file i'm going to
+go back into the database and update it Import uh updated through an import so when you want to update afterwards you just go in the favorites section and this is valid
+for any view in the system and import the records here i'm going to upload my file and i'm going to choose here my my new my file that i just updated so here as you can see since i have the proper
+column names audio already gives me the right uh the right fields to choose from and always when you want to import back again test if everything works so making sure everything seems
+valid audio says okay i'm just going to import it again so what happens here is uh let's check out for example our account for my cars if i go back here you see that it has updated the name properly
+and the code as well so it's super easy uh and it just takes me like much less time to update it through an input than through uh manually line by line that's all for me in this video
+thank you for watching ciao tutti
+
