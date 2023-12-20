@@ -1,8 +1,10 @@
-Ретробонуси
-https://docs.google.com/document/d/1tUMs5L5_LG1Q9u4BVWL6cMXl8QauwmwwEvf9htntqg0/edit
+Odoo Instruction
+https://drive.google.com/drive/u/0/folders/14bE_G490aU8RvMPnJDFkuCXvuO6O6TpO
 
-Внутрішнє переміщення (int)
-https://docs.google.com/document/d/1OhSazoRknRVkYy7dx3NjDRIRJK8GxbwXOe9TcwKyhu8/edit?usp=sharing
 
-Инструкция Веры
-https://docs.google.com/document/d/1YQY1auzFiyaJmHuSY_yCUMpZfqRnm9s0wXOunXF-5-E/edit
+Инструкции внешние
+https://hibou.io/docs/accounting-3/stock-movements-355
+
+
+Инструкции simbioz.ua
+https://simbioz.ua/documentation/uk/developer.html
